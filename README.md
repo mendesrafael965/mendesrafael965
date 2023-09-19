@@ -1,5 +1,5 @@
 # Hi there 👋
-Meu nome é Rafael Mendes sou estudante de Engenharia de Sistemas na Universidade Federal de Minas Gerais.
+Meu nome é Rafael Mendes sou graduado em Engenharia de Sistemas pela UFMG e estou fazendo pós graduação em Engenharia de Dados pela PUC Minas.
 
 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/rafael-mendes-aa2452a3/) 
